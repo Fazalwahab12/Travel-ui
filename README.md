@@ -1,4 +1,5 @@
 # Build and Deploy a Fully Responsive Modern UI/UX Website | React.js, Next.js 13, Tailwind CSS
+[![Travel Website](https://i.ibb.co/wrGZhPP/YT-Thumbnails-5.png)]
 
 ## Introduction
 If you’ve ever struggled with creating a sleek UI that also performs flawlessly, you're not alone.
@@ -20,6 +21,4 @@ While developing the app, you’ll:
 - start with the mobile-first approach for maximum responsiveness
 - make use of TypeScript
 - and many more best practices that set you apart in the industry
-
-The only thing you need to follow along? The basics of React.
 
